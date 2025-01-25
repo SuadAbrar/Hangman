@@ -6,7 +6,7 @@ Group: 5
 
 Group Members:
 
-   Name                                          ID
+     Name                                          ID
    
 1. Selamawit Tefera                         ETS1223/15
 
