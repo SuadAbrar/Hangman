@@ -1,8 +1,13 @@
 # Hangman
+
 Just Coding
+
 Group 5
+
 Group Members:
-Name                                            ID
+
+Name                                          ID
+
 1. Selamawit Tefera                        ETS1223/15
 2. Suad Abrar                              ETS1278/15
 3. Yeabsira Yideg                          ETS1399/15
