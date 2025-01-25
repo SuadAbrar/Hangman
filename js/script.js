@@ -96,7 +96,6 @@ function provideHint() {
     restartButton.style.display = "inline-block";
   }
 }
-
 // New Game
 function startNewGame() {
   // Create the overlay and confirmation dialog
@@ -155,7 +154,6 @@ function playloseSound() {
   clickSound.currentTime = 0;
   loseSound.play();
 }
-
 // To trigger win animation
 function triggerWinAnimation() {
   playWinSound();
@@ -234,13 +232,11 @@ guessInput.addEventListener("keydown", (event) => {
     submitGuess.click();
   }
 });
-
 // Handle hint request
 hintButton.addEventListener("click", () => {
   playClickSound();
   provideHint();
 });
-
 // Handle new game request
 newGame.addEventListener("click", () => {
   playClickSound();
@@ -252,6 +248,5 @@ restartButton.addEventListener("click", () => {
   playClickSound();
   initializeGame();
 });
-
 // Initialize the first game
 initializeGame();
