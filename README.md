@@ -1,6 +1,6 @@
-# Hangman
+# Just coding
 
-Just Coding
+Hangman
 
 Group 5
 
