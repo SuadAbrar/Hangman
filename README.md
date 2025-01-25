@@ -1,8 +1,8 @@
 # Just coding
 
-Hangman Game
+Title: Hangman Game
 
-Group 5
+Group: 5
 
 Group Members:
 
