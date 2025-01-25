@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Fredoka One", sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 100vh;
+    background: linear-gradient(90deg, #d12a2a, #e07a50);
+    color: #fff;
+    padding: 10px;
+  }
+
+.button{
+    font-size: 1.2rem;
+    padding: 8px 15px;
+    border-radius: 5px;    
+    border:none;
+    text-align: center;
+    cursor: pointer;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    background-color: #972d2d;
+    transition: opacity 0.3s ease;
+    margin-top: 20px;
+    justify-content: end;
+}
+
+#instruct{
+    position: absolute;
+    top: 40px;
+    right: 160px;
+}
+
+#start{
+    position: absolute;
+    top: 40px;
+    right: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+h1 {
+    font-size: 3rem; /* Large title */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+  }
+
+#logo{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.paragraph{
+    width: 100%;
+}
