@@ -1,6 +1,6 @@
 # Just coding
 
-Hangman
+Hangman Game
 
 Group 5
 
