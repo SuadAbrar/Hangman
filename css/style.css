@@ -55,7 +55,6 @@ h1 {
   min-width: 280px; /* Ensure minimum width */
   max-width: 400px; /* Limit size on larger screens */
 }
-
 /* Word Display */
 #wordDisplay {
   font-family: "Poppins", sans-serif;
